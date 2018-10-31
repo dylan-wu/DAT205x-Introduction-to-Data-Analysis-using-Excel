@@ -3,7 +3,7 @@
 
 | Chapter | Lab | Lecture |
 |---------|-----|---------|
-| 1. Introduction to Reporting in Excel | :white_check_mark: |  |
+| [1. Introduction to Reporting in Excel](1-introduction-to-reporting-in-excel.md) | :white_check_mark: |  |
 | 2. Excel Tables | :white_check_mark: |  |
 | 3. Basic Pivot Tables | :white_check_mark: |  |
 | 4. Dashboards |  |  |
