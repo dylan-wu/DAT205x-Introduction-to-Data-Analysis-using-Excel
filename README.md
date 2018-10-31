@@ -1,4 +1,5 @@
-# DAT205x-Introduction-to-Data-Analysis-using-Excel
+# Microsoft DAT205x Introduction to Data Analysis using Excel
+[EdX Course](https://courses.edx.org/courses/course-v1:Microsoft+DAT205x+3T2018/course/)
 
 | Chapter | Lab | Lecture |
 |---------|-----|---------|
