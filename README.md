@@ -15,4 +15,4 @@
 
 | Date | Percent | Screenshot |
 |------|---------|------------|
-| 2018-10-31 | 23 | <img src="https://user-images.githubusercontent.com/6586811/47800486-5e7d3a00-dcfa-11e8-9336-eb372673a4df.png" width="500"> |
+| 2018-10-31 | [23](https://user-images.githubusercontent.com/6586811/47800486-5e7d3a00-dcfa-11e8-9336-eb372673a4df.png) |  |
