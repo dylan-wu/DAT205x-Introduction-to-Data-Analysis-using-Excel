@@ -3,8 +3,8 @@
 
 | Chapter | Lab (Include date done) | Lecture (Include date done) |
 |---------|-----|---------|
-| [1. Introduction to Reporting in Excel](1-introduction-to-reporting-in-excel.md) | :white_check_mark: |  |
-| 2. Excel Tables | :white_check_mark: |  |
+| [1. Introduction to Reporting in Excel](1-introduction-to-reporting-in-excel.md) | 2018-10-25 :white_check_mark: |  |
+| 2. Excel Tables | 2018-10-25 :white_check_mark: |  |
 | 3. Basic Pivot Tables | 2018-11-01 :white_check_mark: |  |
 | 4. Dashboards |  |  |
 | 5. Profitability Analysis and Finding Anomalies |  |  |
