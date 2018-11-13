@@ -18,3 +18,4 @@
 |------|----------|
 | 2018-10-31 | [23%](https://user-images.githubusercontent.com/6586811/47800486-5e7d3a00-dcfa-11e8-9336-eb372673a4df.png) |
 | 2018-11-01 | [27%](https://user-images.githubusercontent.com/6586811/47861380-af576600-ddc0-11e8-9228-8942aa64fe1e.png) |
+| 2018-11-13 | [100%](https://user-images.githubusercontent.com/6586811/48438987-dad83a00-e74a-11e8-826b-4e7d2e0c4d61.png) |
